@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "./Nova pasta/Longbow/longbow"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, -45],
+			"translation": [0, 0.75, -4.5],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, -45],
+			"translation": [0, 0.75, -4.5],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, 0, -55],
+			"translation": [1.08, 4, -0.5],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, 0, -55],
+			"translation": [1.08, 4, -0.5],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}
