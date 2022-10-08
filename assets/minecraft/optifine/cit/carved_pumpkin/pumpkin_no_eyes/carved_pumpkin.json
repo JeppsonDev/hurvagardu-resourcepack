@@ -34,8 +34,8 @@
 			"translation": [-2, 4.5, 0]
 		},
 		"gui": {
-			"rotation": [-155, -48, 0],
-			"translation": [0, -3.25, 0]
+			"rotation": [-155, -48, 180],
+			"translation": [0, 3.75, 0]
 		},
 		"head": {
 			"translation": [0, 8.25, 0],
